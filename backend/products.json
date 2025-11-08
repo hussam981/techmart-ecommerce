@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 14 Pro",
+    "brand": "Apple",
+    "specs": "A16 Bionic, 128GB, 6.1-inch Super Retina XDR",
+    "price": 999,
+    "image": "https://picsum.photos/300/300?random=1",
+    "description": "The latest iPhone with advanced camera features."
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S23",
+    "brand": "Samsung",
+    "specs": "Snapdragon 8 Gen 2, 256GB, 6.1-inch AMOLED",
+    "price": 799,
+    "image": "https://picsum.photos/300/300?random=2",
+    "description": "Powerful Android phone with stunning display."
+  },
+  {
+    "id": 3,
+    "name": "Google Pixel 7",
+    "brand": "Google",
+    "specs": "Tensor G2, 128GB, 6.3-inch OLED",
+    "price": 599,
+    "image": "https://picsum.photos/300/300?random=3",
+    "description": "AI-powered camera and pure Android experience."
+  }
+]
